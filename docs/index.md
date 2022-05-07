@@ -64,9 +64,9 @@ The basic working pipeline is:
 - Architecture is CNN. 
 - Training and testing accuracy are based on data set described from step (4 and 6). 
 
-![](step05.png)
+![](step05.jpg)
 
-![](step06.png)
+![](step06.jpg)
 
 ## Reinforcement Learning
 
