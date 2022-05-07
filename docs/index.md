@@ -93,5 +93,8 @@ We use a Tello EDU drone as the experimental platform, which is shown below. Tel
 
 ## Reference
 
+- R. Girshick, J. Donahue, T. Darrell, and J. Malik, "Region-Based Convolutional Networks for Accurate Object Detection and Segmentation," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 38, no. 1, pp. 142-158, 1 Jan. 2016, doi: 10.1109/TPAMI.2015.2437384.
+- J. Zhu, Y. Fang, H. Abu-Haimed, K. Lien, D. Fu, and J. Gu.  (2019). Learning Object-Specific Distance From a Monocular Image. 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 3838-3847.
+- J. R. Uijlings, K. E. Sande, T. Gevers, and A. W. Smeulders. 2013. Selective Search for Object Recognition. Int. J. Comput. Vision 104, 2 (September 2013), 154–171. https://doi.org/10.1007/s11263-013-0620-5
 - [Tello-Python](https://github.com/dji-sdk/Tello-Python)
 - [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail)
