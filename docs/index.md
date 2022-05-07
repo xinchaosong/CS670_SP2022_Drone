@@ -1,4 +1,4 @@
-# Object Detection and Tracking with An Autonomous Drone
+# Object Detection and Tracking with Autonomous Drones
 
 ![Title Image](title.png)
 
