@@ -1,0 +1,20 @@
+<robot name="GEN3_URDF_V12" version="1.0">
+
+    <link name="Base_Link">
+        <inertial>
+            <origin xyz="0 0 0" rpy="0 0 0"/>
+            <mass value="1"/>
+            <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+        </inertial>
+        <visual>
+            <origin xyz="0 0 0" rpy="0 0 0"/>
+            <geometry>
+                <mesh filename="drone.stl"/>
+            </geometry>
+            <material name="">
+                <color rgba="1 0 0 1"/>
+            </material>
+        </visual>
+    </link>
+
+</robot>

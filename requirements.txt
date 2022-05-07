@@ -1,0 +1,15 @@
+numpy==1.21.5
+opencv-contrib-python~=4.5.5.64
+pybind11~=2.9.2
+setuptools~=62.0.0
+tensorflow~=2.8.0
+wheel~=0.37.1
+selectivesearch~=0.4
+gym~=0.21.0
+pybullet~=3.2.4
+matplotlib~=3.5.1
+Pillow~=9.1.0
+torch~=1.11.0
+h5py~=3.6.0
+cmake~=3.22.4
+stable-baselines3~=1.5.0
