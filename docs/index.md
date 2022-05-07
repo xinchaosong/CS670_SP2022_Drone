@@ -1,5 +1,3 @@
-# Object Detection and Tracking with Autonomous Drones
-
 ![Title Image](title.png)
 
 ## Introduction
